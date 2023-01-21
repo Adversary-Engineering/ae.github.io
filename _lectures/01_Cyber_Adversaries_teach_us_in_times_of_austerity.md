@@ -1,5 +1,5 @@
 ---
-type: Event
+type: lecture
 date: 2022-09-18T8:00:00+4:30
 title: Cyber Adversaries teach us in times of austerity 
 slides: https://drive.google.com/file/d/168XPvm-3hZxKSvAOnbFIXxcZ0D1iw7-c/view?usp=sharing
