@@ -8,7 +8,7 @@ description: |
 
 message: Download a course infosheet from the following link <a href="https://groups.google.com/forum/#!forum/dl972/">Course Infosheet</a> feel free to reach me directly through email in a footer.
 message: <a href="https://ibb.co/V2d1WTK"><img src="https://i.ibb.co/183gfTS/Data-Intelligence-Centre.jpg" alt="Data-Intelligence-Centre" border="0"></a>
-baseurl: "/adversary-engineering" # the subpath of your site, e.g. /blog/
+#baseurl: "/adversary-engineering" # the subpath of your site, e.g. /blog/
 url: " https://www.adversary.engineering" # the base hostname & protocol for your site
 # githubdir: "ae.github.io"
 
