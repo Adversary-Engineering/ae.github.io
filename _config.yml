@@ -8,13 +8,13 @@ description: |
 
 message: Download a course infosheet from the following link <a href="https://groups.google.com/forum/#!forum/dl972/">Course Infosheet</a> feel free to reach me directly through email in a footer.
 message: <a href="https://ibb.co/V2d1WTK"><img src="https://i.ibb.co/183gfTS/Data-Intelligence-Centre.jpg" alt="Data-Intelligence-Centre" border="0"></a>
-baseurl: "/dataintelligence" # the subpath of your site, e.g. /blog/
+baseurl: "/adversary-engineering" # the subpath of your site, e.g. /blog/
 url: " http://www.adversary.engineering/" # the base hostname & protocol for your site
 githubdir: "Adversary-Engineering/ae.github.io"
 
 # Author/user information
-email: datintelli@gmail.com
-twitter_username: amadglia
+email: amgad.magdy@snellsec.com
+
 
 
 
