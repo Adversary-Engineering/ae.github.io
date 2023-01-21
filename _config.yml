@@ -10,7 +10,7 @@ message: Download a course infosheet from the following link <a href="https://gr
 message: <a href="https://ibb.co/V2d1WTK"><img src="https://i.ibb.co/183gfTS/Data-Intelligence-Centre.jpg" alt="Data-Intelligence-Centre" border="0"></a>
 baseurl: "/adversary-engineering" # the subpath of your site, e.g. /blog/
 url: " https://www.adversary.engineering" # the base hostname & protocol for your site
-githubdir: "ae.github.io"
+# githubdir: "ae.github.io"
 
 # Author/user information
 email: amgad.magdy@snellsec.com
