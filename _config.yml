@@ -1,0 +1,53 @@
+# Site settings
+title: Data Intelligence Academic Research Project 
+course_name: Building Data Intellignece Centre Course
+course_description: "The course will not focus on the mathematics or theory, but on the practical applications: the course will provide a mix of technical and theoretical insights and shows you how to practically implement in-house data intelligence centre"
+course_year: "Full/2022"
+description: |
+    Instructor: Amgad Magdy
+
+message: Download a course infosheet from the following link <a href="https://groups.google.com/forum/#!forum/dl972/">Course Infosheet</a> feel free to reach me directly through email in a footer.
+message: <a href="https://ibb.co/V2d1WTK"><img src="https://i.ibb.co/183gfTS/Data-Intelligence-Centre.jpg" alt="Data-Intelligence-Centre" border="0"></a>
+baseurl: "/dataintelligence" # the subpath of your site, e.g. /blog/
+url: "https://glia-l.github.io/" # the base hostname & protocol for your site
+githubdir: "https://glia-l.github.io/dataintelligence/"
+
+# Author/user information
+email: datintelli@gmail.com
+twitter_username: amadglia
+
+
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css', '_js']
+exclude: ['develop', 'build.sh']
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
+
+
+
+plugins:
+    - jekyll-jalali
